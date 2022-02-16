@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-331-advanced-circuit-techniques-spring-2002/175a2d216f0d552491e8aa845c50605a_8038appnote.pdf
+file: /media/courses/6-331-advanced-circuit-techniques-spring-2002/175a2d216f0d552491e8aa845c50605a_8038appnote.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Document
 title: 8038appnote.pdf
 uid: 175a2d21-6f0d-5524-91e8-aa845c50605a

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem Set 5
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-331-advanced-circuit-techniques-spring-2002/ce01e5d97810d4d2bc1aebf5bb656bfe_ps5.pdf
+file: /media/courses/6-331-advanced-circuit-techniques-spring-2002/ce01e5d97810d4d2bc1aebf5bb656bfe_ps5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps5.pdf
 uid: ce01e5d9-7810-d4d2-bc1a-ebf5bb656bfe
