@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: f906e932-4013-3157-ea4f-3e7a2391ce44
 resourcetype: Document
 title: 8038datasheet.pdf
 uid: 7b1cbcae-fca0-be71-62c2-7638eb43ff08
