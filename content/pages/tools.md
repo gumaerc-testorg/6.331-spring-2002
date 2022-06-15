@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: '[This section contains datasheets of commercial products which are studied
+  in this course.]'
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
