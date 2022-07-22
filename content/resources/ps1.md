@@ -5,6 +5,7 @@ file: /courses/6-331-advanced-circuit-techniques-spring-2002/e76a9be2014b6dd5159
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1.pdf
 uid: e76a9be2-014b-6dd5-1597-e87b1669d604
 ---
 Problem Set 1
-

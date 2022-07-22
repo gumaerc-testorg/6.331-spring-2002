@@ -5,6 +5,7 @@ file: /courses/6-331-advanced-circuit-techniques-spring-2002/175a2d216f0d552491e
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/6-331-advanced-circuit-techniques-spring-2002/c0ea3fe66957c85f9f9
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab2.pdf
 uid: c0ea3fe6-6957-c85f-9f9b-bae09a1dd663
 ---
 Laboratory 2: Power Converters
-

@@ -5,6 +5,7 @@ file: /courses/6-331-advanced-circuit-techniques-spring-2002/d5cc7e77412c403ac59
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab1.pdf
 uid: d5cc7e77-412c-403a-c59a-237549bc952f
 ---
 Laboratory 1: Op-Amp or Oscillator?
-

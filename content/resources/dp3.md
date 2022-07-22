@@ -5,6 +5,7 @@ file: /courses/6-331-advanced-circuit-techniques-spring-2002/2c8114e7497ae1eda96
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dp3.pdf
 uid: 2c8114e7-497a-e1ed-a962-b66337bd3dc3
 ---
 Design Problem 3 - A/D Converter
-
