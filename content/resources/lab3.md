@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Laboratory 3: Phase Lock Loops'
 file: /courses/6-331-advanced-circuit-techniques-spring-2002/82a699243437c9217f47822034943ca7_lab3.pdf
+file_size: 87759
 file_type: application/pdf
 learning_resource_types:
 - Labs
