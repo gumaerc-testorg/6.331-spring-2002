@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 6
-file: /courses/6-331-advanced-circuit-techniques-spring-2002/4f24d1457c990591c1ca0331b845357c_ps6.pdf
+file: /ol-ocw-studio-app/courses/6-331-advanced-circuit-techniques-spring-2002/4f24d1457c990591c1ca0331b845357c_ps6.pdf
 file_size: 45342
 file_type: application/pdf
 learning_resource_types:
