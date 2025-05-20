@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Design Problem 1: Sample and Hold'
-file: /ol-ocw-studio-app/courses/6-331-advanced-circuit-techniques-spring-2002/1f74bfacb170072445cfb2d4aa66470d_dp1.pdf
+file: /courses/6-331-advanced-circuit-techniques-spring-2002/1f74bfacb170072445cfb2d4aa66470d_dp1.pdf
 file_size: 21401
 file_type: application/pdf
 learning_resource_types:
