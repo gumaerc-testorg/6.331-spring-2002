@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'Laboratory 2: Power Converters'
-file: /courses/6-331-advanced-circuit-techniques-spring-2002/c0ea3fe66957c85f9f9bbae09a1dd663_lab2.pdf
+file: /ol-ocw-studio-app/courses/6-331-advanced-circuit-techniques-spring-2002/c0ea3fe66957c85f9f9bbae09a1dd663_lab2.pdf
 file_size: 23856
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
