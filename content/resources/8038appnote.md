@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-331-advanced-circuit-techniques-spring-2002/175a2d216f0d552491e8aa845c50605a_8038appnote.pdf
+file: /ol-ocw-studio-app/courses/6-331-advanced-circuit-techniques-spring-2002/175a2d216f0d552491e8aa845c50605a_8038appnote.pdf
 file_size: 247883
 file_type: application/pdf
 learning_resource_types:

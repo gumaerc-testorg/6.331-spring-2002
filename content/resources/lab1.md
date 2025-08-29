@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'Laboratory 1: Op-Amp or Oscillator?'
-file: /courses/6-331-advanced-circuit-techniques-spring-2002/d5cc7e77412c403ac59a237549bc952f_lab1.pdf
+file: /ol-ocw-studio-app/courses/6-331-advanced-circuit-techniques-spring-2002/d5cc7e77412c403ac59a237549bc952f_lab1.pdf
 file_size: 21023
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
